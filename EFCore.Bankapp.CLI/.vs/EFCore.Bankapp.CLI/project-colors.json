@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65eb1b40-926b-4bfd-8138-b293a2b03a2c": {
+      "ProjectGuid": "65eb1b40-926b-4bfd-8138-b293a2b03a2c",
+      "DisplayName": "EFCore.Bankapp.CLI",
+      "ColorIndex": 0
+    },
+    "3d0abbfa-1dea-4829-88fb-f155b759878c": {
+      "ProjectGuid": "3d0abbfa-1dea-4829-88fb-f155b759878c",
+      "DisplayName": "EFCore.Bankapp.Model",
+      "ColorIndex": 1
+    },
+    "3188b040-7feb-4862-871e-f355f9a62e4e": {
+      "ProjectGuid": "3188b040-7feb-4862-871e-f355f9a62e4e",
+      "DisplayName": "EFCore.Bankapp.Service",
+      "ColorIndex": 2
+    },
+    "6e87350a-2fc2-4257-b8ba-936c70f49a8c": {
+      "ProjectGuid": "6e87350a-2fc2-4257-b8ba-936c70f49a8c",
+      "DisplayName": "EFCore.Bankapp.Enums",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b0dc18ff-d919-4b3d-8fb5-20117022f238": {
+      "ProjectGuid": "b0dc18ff-d919-4b3d-8fb5-20117022f238",
+      "DisplayName": "EFCore.Bankapp.API",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

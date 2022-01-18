@@ -1,0 +1,16 @@
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Model.deps.json
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Model.runtimeconfig.json
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Model.runtimeconfig.dev.json
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Model.dll
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Model.pdb
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.dll
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.pdb
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Model.csproj.AssemblyReference.cache
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Model.AssemblyInfoInputs.cache
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Model.AssemblyInfo.cs
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Model.csproj.CopyComplete
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Model.dll
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Model.pdb
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Model\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Model.genruntimeconfig.cache

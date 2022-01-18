@@ -1,0 +1,13 @@
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.deps.json
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.runtimeconfig.json
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.runtimeconfig.dev.json
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.dll
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\bin\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.pdb
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.csproj.AssemblyReference.cache
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.AssemblyInfoInputs.cache
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.AssemblyInfo.cs
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.dll
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.pdb
+C:\Users\Mark-42\source\repos\EFCore\EFCore.Bankapp.Enum\obj\Debug\netcoreapp3.1\EFCore.Bankapp.Enums.genruntimeconfig.cache
